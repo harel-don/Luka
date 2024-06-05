@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/shiiei/SampleScene.unity
+    guid: 1e26719df984dda4ea0f08e90704dcd1
+  - enabled: 0
+    path: Assets/Scenes/shiiei/apartmentScene3.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/shiiei/LeftChoice.unity
+    guid: a093023df27a4524394917facbce6017
+  - enabled: 0
+    path: Assets/Scenes/shiiei/apartmentScene1.unity
+    guid: 45d57dd2df94a344ba58977ab19b308e
+  - enabled: 1
+    path: Assets/Scenes/mainM.unity
+    guid: 04f4cc8d11fd0014999803106e37d472
+  - enabled: 1
+    path: Assets/Scenes/scene.unity
+    guid: 87d79c6e81481af42a6047ef87f0f318
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1.unity
+    guid: 3c706030fd32cfa4d8360466ef194321
+  - enabled: 1
+    path: Assets/Scenes/hallway2.unity
+    guid: 2c3f067e4e00ddf45b74c3415f4b7dfe
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment.unity
+    guid: c642c2c389efa354c8c4f7dfd310a76c
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 1.unity
+    guid: 8c16298d003e7f44f8f1ecbb263b76b4
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 2.unity
+    guid: a137e07a526c30e43ba655c535a268e8
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 3.unity
+    guid: 5d87f21b719978c4aa85a79283544042
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 4.unity
+    guid: 584c87c236cbd9248a2a3a2a73beac44
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 5.unity
+    guid: 614cf296e496896459c139bcd3b22367
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 1.unity
+    guid: 0bd9df0aee962714aafbea5fa545f167
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 2.unity
+    guid: 9ea32858e6449964cbf4344682ab16c6
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 3.unity
+    guid: 13bc94256b1d6164b9ab1c144341f4c3
+  - enabled: 1
+    path: Assets/Scenes/hallwayMeet/hallwayMeet.unity
+    guid: 34a43e64b6859b149ad43469bb94ea6e
+  - enabled: 1
+    path: Assets/Scenes/hallwayMeet/hallwayMeet 3.unity
+    guid: 33af2e215c0d31e49921606240a9dd43
+  - enabled: 1
+    path: Assets/Scenes/hallwayMeet/hallwayMeet 2.unity
+    guid: 0140ce344ab067647ac95a99a2c35703
+  - enabled: 1
+    path: Assets/Scenes/hallwayMeet/hallwayMeet 1.unity
+    guid: ad1c9f567a7432548b987d56dac1e382
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment2 1.unity
+    guid: 20377ef5893a38346881d873b7debe06
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment2 2.unity
+    guid: 6fb3bf5ad1099244b9482281f8c5ff99
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment2 6.unity
+    guid: eda0245cda55da24fa76d0f0819149a8
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment2 5.unity
+    guid: 6ccc77062eb539b4a9122170f02c2811
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 7.unity
+    guid: e4474cd5460ee2842aacc69bb4d26031
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 8.unity
+    guid: d085750f21ce3164aa8dbe9b247b0be3
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 6.unity
+    guid: 1914e9a09e433a24986382be0f2944a4
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment2 4.unity
+    guid: 982045f84a102fb46b7861e7a3279b53
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment3.unity
+    guid: 0de3c1f995fd42842a76aa83f1aaf0fa
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment3 6.unity
+    guid: a4a4b9817ccfcd544bb2fd95d3916d09
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment3 8.unity
+    guid: f3c7bb36c6ac68940a08b555645b23f3
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment3 5.unity
+    guid: dd211fe6b49c98646be70cf3a3e79b4e
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment3 4.unity
+    guid: 93d2abf1407ff8f44b495b7c2ddf6ccd
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment3 1.unity
+    guid: be9a131e83021bb4ab5abcb1ab7e4cce
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment2.unity
+    guid: bd7315df604f9e840877720e9d42d3f2
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 4.unity
+    guid: 1be50b4d831c26c4c8722bee2c08ebe5
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 5.unity
+    guid: 2dee69e90c79183418b4f58f3fac9f5f
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 6.unity
+    guid: 152eb24eb392edb4eb0a9a04b96c9c43
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 7.unity
+    guid: 3311e353240335a4bbc967bfe09960e6
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 8.unity
+    guid: 8fbaff8f4b3fa3a41b342b00cd6ac4ba
+  - enabled: 1
+    path: Assets/Scenes/scene 1.unity
+    guid: 9d3e2b9350ae97946a4fe5d49c1ea0c1
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 9.unity
+    guid: 916161f7c60f6b04a818f2d0eec863a7
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/outsideOfLukasPlace/LukasApartment 10.unity
+    guid: 37259ef20627a6f4486068b0f826338d
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/outsideOfLukasPlace/LukasApartment 11.unity
+    guid: 3a2acc09400e53e4194def491c148b0d
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/outsideOfLukasPlace/LukasApartment 12.unity
+    guid: c485b25ed4dfce543ae5e2968e2cbb69
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay.unity
+    guid: 486fd2b857c4339409477202720d8ac5
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay.unity
+    guid: 03eab0e4a42990c4ebcd162e7e588c8f
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 12.unity
+    guid: 9eb381d281fb22543b1e5708d492bacc
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 11.unity
+    guid: 2d4dac3cebcdafc43bdb0540b4ef5b17
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 10.unity
+    guid: 1873493dad22e7b42995f210188a46a3
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 9.unity
+    guid: 51117eb34ce7c01449d0ff9f8e003eeb
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 8.unity
+    guid: c3d7c8dcee87f484b900f2be894d2817
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 7.unity
+    guid: f5763d8e272702d45be40edcefcd4f6f
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 6.unity
+    guid: dbcfe6c35acdbd746b125393fc4d3ad2
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 5.unity
+    guid: 88b269414bbf8eb4ab5587d4ed85abb7
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 4.unity
+    guid: 90d18ad665d7da4479a10caff1abc12e
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 3.unity
+    guid: 62f9e5348b1fbdf40b6f70d70960d396
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 2.unity
+    guid: 40c8f99cb819bc84ba72800133a9bd82
+  - enabled: 1
+    path: Assets/Scenes/homeAgain/ApartmentDay 1.unity
+    guid: 051d6173b4d488d458bdc1730d2e1079
+  - enabled: 1
+    path: Assets/Scenes/ifNotDoAnything/ApartmentNotDoAnything 1.unity
+    guid: cb366858d49609e4a8bb9242dae9f110
+  - enabled: 1
+    path: Assets/Scenes/ifNotDoAnything/ApartmentNotDoAnything.unity
+    guid: 3c7981506597e9c44ad8f7495cae6884
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment1 9.unity
+    guid: 7a463407660b2ed4f9a0818d82cf4136
+  - enabled: 1
+    path: Assets/Scenes/ends/End3.unity
+    guid: 8c4ed1552e48035418a366d2b2609b61
+  - enabled: 1
+    path: Assets/Scenes/ifNotDoAnything/ApartmentNotDoAnything 5.unity
+    guid: 6f1ac35cc024cad459ef56a0c5fb316d
+  - enabled: 1
+    path: Assets/Scenes/ifNotDoAnything/ApartmentNotDoAnything 4.unity
+    guid: 499bfb14ef639fd4a9061161f5dedbdc
+  - enabled: 1
+    path: Assets/Scenes/ifNotDoAnything/ApartmentNotDoAnything 3.unity
+    guid: 947e62ec8d36a4d4196b246afdbe561b
+  - enabled: 1
+    path: Assets/Scenes/ends/End4.unity
+    guid: f30e599ca03c87648b09b38b30bbfb06
+  - enabled: 1
+    path: Assets/Scenes/ifNotDoAnything/ApartmentNotDoAnything 6.unity
+    guid: 11dc2387ec9519e46875f3a3f9b31f7f
+  - enabled: 1
+    path: Assets/Scenes/ifNotDoAnything/ApartmentNotDoAnything 7.unity
+    guid: 48fcab1416d0b524eb304bead4c86cad
+  - enabled: 1
+    path: Assets/Scenes/ifNotDoAnything/ApartmentNotDoAnything 2.unity
+    guid: 322907933a1e5e5448276217b20c0cc1
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/LukasApartment 13.unity
+    guid: ed29bd202b32e5d4397189e04a829896
+  - enabled: 1
+    path: Assets/Scenes/LukasPlace/outsideOfLukasPlace/LukasApartment 14.unity
+    guid: 9d561dd706df51e44b2114609a1eb8f7
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 4.unity
+    guid: 65aa1578262317a4e8c993aa978ba666
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 3.unity
+    guid: a1cba42fec435e34192fc7dbc0899cfa
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 2.unity
+    guid: a46e125b9ca349b4aa23884c4453f220
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 1.unity
+    guid: 30173158afb73334197006b7ebd64385
+  - enabled: 1
+    path: Assets/Scenes/ends/End5.unity
+    guid: 3f18cdc3bc689b34f982fff08bb5275c
+  - enabled: 1
+    path: Assets/Scenes/hallwayMeet/hallwayMeet 4.unity
+    guid: f4c8ea594fa24a942981e49dede1afc6
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment3 2.unity
+    guid: 1e129bf63b0f5d947a9bd3f467ea532e
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 10.unity
+    guid: 65cb841608269334c86cdf0359880b1d
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 5.unity
+    guid: 44980b669b14e68419830014e12e397b
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 6.unity
+    guid: f54f934ea8883cb4eb4bce599f04c479
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 7.unity
+    guid: 45f75ba068d3ca940b8ffd0b10c3b6e6
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 8.unity
+    guid: c49fbe2fb56a13a4f8a596ab9db83dba
+  - enabled: 1
+    path: Assets/Scenes/hallwayAgain/hallwayDay 9.unity
+    guid: 85591221b5c7dd14d82b26c36f2f87f4
+  - enabled: 1
+    path: Assets/Scenes/apartmentScenes/Apartment2 8.unity
+    guid: ad1ffa74045925741a3e4676c135e856
+  - enabled: 1
+    path: Assets/Scenes/ends/End1.unity
+    guid: 2ec3d2af34ea45945a6be72ed0e95d78
+  - enabled: 1
+    path: Assets/Scenes/ends/PlayAgain.unity
+    guid: 5a744bace8857f44eaf62b97c8290665
+  m_configObjects: {}
